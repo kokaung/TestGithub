@@ -1,0 +1,14 @@
+git config --global user.name "KaungLin" git config --global user.email "kaungzawlin135@gmail.com"
+
+
+git init
+
+git checkout -b new_branch
+
+git remote add origin https://github.com/kokaung/TestGithub.git
+
+
+
+
+git branch -M main
+git push -u origin main
